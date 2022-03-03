@@ -1,0 +1,24 @@
+a:link {
+  color: red;
+}
+a:active {
+  color: pink;
+}
+a:visited {
+  color: rgb(102, 35, 141);
+}
+a:hover {
+  color: aqua;
+}
+input:checked {
+  width: 20px;
+  height: 20px;
+}
+input:disabled {
+  background-color: tomato;
+}
+p:empty {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
